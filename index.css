@@ -1,0 +1,74 @@
+.minombre{
+    font-size:45px;
+}
+.columna1{
+    padding:10px;
+    border-color:grey;
+    border-style: solid;
+    font-weight: 800;
+    text-align: center;
+}
+.columna2{
+    padding:10px;
+    border-color:grey;
+    border-style: solid;
+    font-weight: 800;
+    text-align: center;
+}
+.columna3{
+    padding:10px;
+    border-color:grey;
+    border-style: solid;
+    font-weight: 800;
+    text-align: center;
+}
+.columna4{
+    padding:10px;
+    border-color: grey;
+    border-style: solid;
+}
+
+.columna5{
+    padding:10px;
+    border-color:grey;
+    border-style: solid;
+}
+.columna6{
+    padding:10px;
+    border-color:grey;
+    border-style: solid;
+}
+.li1{
+    font-weight:700
+}
+.yo{
+  border: 1px solid grey;
+  border-radius: 4px;
+  padding: 5px;
+  width: 100px;
+  background-color: grey;
+}
+.columna7{
+    padding:25px;
+    float: center;
+}
+.Apellido{
+    padding:10px;
+    font-weight: 800;
+}
+.Mail{
+    padding:10px;
+    font-weight: 800;
+}
+.Formacion{
+    padding:10px;
+    font-weight: 800;
+}
+.Nombre{
+    padding:10px;
+    font-weight: 800;
+}
+.Telefono{
+    padding:10px;
+    font-weight: 800;
+}
